@@ -17,4 +17,9 @@
 ### Added
 - Thêm tag v1
 - Thêm README ghi lại đầy đủ và bài tập lớn
-- Thêm CHANGELOG ghi lại sự thay đổi của bài làm (V1 và V2)
+
+## [V3] - 15/11/2026
+
+### Added
+- Thêm Changelog cho dự án, ghi lại sự thay đổi giữa v1 v2 và v3
+
