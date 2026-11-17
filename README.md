@@ -95,3 +95,4 @@ HTML, CSS, bố cục responsive và biên tập nội dung
 
 Sinh viên cần tự kiểm tra thông tin, chỉnh sửa mã nguồn,
 chạy thử website và ghi nhận minh chứng thực tế
+.

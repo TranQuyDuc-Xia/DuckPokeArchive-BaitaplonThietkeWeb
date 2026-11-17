@@ -14,3 +14,4 @@
 | TC10 | Có tài liệu bàn giao | Kiểm tra README và CHANGELOG | Đã kiểm tra |
 | TC11 | Có khai báo AI | Kiểm tra AI_LOG.md | Đã kiểm tra |
 | TC12 | Website được triển khai | Mở URL GitHub Pages | Đã kiểm tra |
+.

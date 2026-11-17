@@ -43,3 +43,4 @@ AI không thể xác nhận thay sinh viên rằng website
 
 Sinh viên cần tự thực hiện các bước kiểm tra và
 bổ sung minh chứng thực tế trước khi nộp
+.

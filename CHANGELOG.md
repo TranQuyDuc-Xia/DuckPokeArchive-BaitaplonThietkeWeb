@@ -23,3 +23,14 @@
 ### Added
 - Thêm Changelog cho dự án, ghi lại sự thay đổi giữa v1 v2 và v3
 
+## [V4] - 15/11/2026
+
+### Added
+- Thêm AILOG và Evidence-index vào thư mục docs mới tạo
+- Chỉnh sửa lại thông tin của Readme và Changelog để cung cấp lại đầy đủ thông tin cho từng phiền bản
+
+## [V5] - 16/11/2026
+
+### Added
+- Kiểm tra lại các file cũng như hoạt động của web. Xác nhận đã ổn định
+- Thêm minh chứng hoàn thiện bảng và báo cáo
