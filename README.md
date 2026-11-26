@@ -66,21 +66,7 @@ Website cần Internet để tải font chữ và hình ảnh bên ngoài
 - Không có lọc sản phẩm động
 - Website chỉ sử dụng HTML và CSS
 
-## 8. Kiểm thử
-
-Các mục dưới đây cần được tự kiểm tra trước khi nộp:
-
-- [ ] Website mở được trên trình duyệt
-- [ ] Menu điều hướng hoạt động
-- [ ] Các liên kết năm đưa đến đúng lá bài
-- [ ] Hình ảnh hiển thị
-- [ ] Các liên kết nguồn mở được
-- [ ] Giao diện hiển thị trên máy tính
-- [ ] Giao diện hiển thị trên tablet
-- [ ] Giao diện hiển thị trên điện thoại
-- [ ] Không xuất hiện thanh cuộn ngang ngoài ý muốn
-
-## 9. Nguồn dữ liệu
+## 8. Nguồn dữ liệu
 
 UltraBall Research:
 https://ultraball.com/news/data/biggest-pokemon-card-sales-2026
@@ -88,7 +74,7 @@ https://ultraball.com/news/data/biggest-pokemon-card-sales-2026
 Guinness World Records:
 https://www.guinnessworldrecords.com/world-records/452634-most-expensive-pokemon-trading-card-sold-at-auction
 
-## 10. Khai báo AI
+## 9. Khai báo AI
 
 AI được sử dụng để hỗ trợ lên ý tưởng, xây dựng cấu trúc
 HTML, CSS, bố cục responsive và biên tập nội dung
